@@ -150,20 +150,6 @@ The script now verifies configuration automatically. If you see red ✗ marks:
 - [AgentRouter Website](https://agentrouter.org)
 - [AgentRouter Console](https://agentrouter.org/console)
 
-### FAQ
-
-**Q: Is this completely free?**
-
-A: Yes, AgentRouter provides $225 in promotional credits when you sign up using the referral link. No credit card required.
-
-**Q: Is my data secure?**
-
-A: It's Chinese service so..
-
-**Q: Can I use multiple accounts?**
-
-A: Yeah, if you have another github account.
-
 ### Contributing
 
 Found an issue or want to improve this guide? Contributions are welcome!
